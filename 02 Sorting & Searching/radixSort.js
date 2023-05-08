@@ -33,9 +33,6 @@ function maxDigitsInArray(arr) {
     return max.toString().length;
 }
 
-
-
-
 /* 
     For calculating the digit at pow10 of i in num
  */
